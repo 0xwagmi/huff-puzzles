@@ -9,5 +9,12 @@
 */
 
 #define macro MAIN() = takes(0) returns(0) {
+    callvalue      // [msg.value]
+    0x40          // [msg.value, 64] we store at free memory pointer
+    mstore        // []
     
+// thne we will return it
+    0x20          // [32]
+    0x40          // [32, 64]
+    return        // []
 }
