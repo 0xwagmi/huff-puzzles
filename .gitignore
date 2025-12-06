@@ -12,7 +12,7 @@ docs/
 
 # Dotenv file
 .env
-
+foundry.lock
 solutions/
 src2/
 
