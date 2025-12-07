@@ -60,7 +60,7 @@ You should see something like this
 - [Add1](https://github.com/rareskills/huff-puzzles/blob/main/src/Add1.huff)ꪜ🟢
 - [Multiply](https://github.com/rareskills/huff-puzzles/blob/main/src/Multiply.huff)ꪜ🟢
 - [CountTime](https://github.com/rareskills/huff-puzzles/blob/main/src/CountTime.huff)ꪜ🟢
-- [NonPayable](https://github.com/rareskills/huff-puzzles/blob/main/src/NonPayable.huff)
+- [NonPayable](https://github.com/rareskills/huff-puzzles/blob/main/src/NonPayable.huff)ꪜ🟢
 - [FooBar](https://github.com/rareskills/huff-puzzles/blob/main/src/FooBar.huff)
 - [MyCreator](https://github.com/rareskills/huff-puzzles/blob/main/src/MyCreator.huff)
 - [SimpleStore](https://github.com/rareskills/huff-puzzles/blob/main/src/SimpleStore.huff)
