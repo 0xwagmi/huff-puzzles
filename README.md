@@ -57,11 +57,11 @@ You should see something like this
 - [CalldataLength](https://github.com/rareskills/huff-puzzles/blob/main/src/CalldataLength.huff) ꪜ🟢
 - [TimeAndBlock](https://github.com/rareskills/huff-puzzles/blob/main/src/TimeAndBlock.huff)   ꪜ🟢
 - [MyEtherBalance](https://github.com/rareskills/huff-puzzles/blob/main/src/MyEtherBalance.huff)  ꪜ🟢
-- [Add1](https://github.com/rareskills/huff-puzzles/blob/main/src/Add1.huff)ꪜ🟢
-- [Multiply](https://github.com/rareskills/huff-puzzles/blob/main/src/Multiply.huff)ꪜ🟢
-- [CountTime](https://github.com/rareskills/huff-puzzles/blob/main/src/CountTime.huff)ꪜ🟢
-- [NonPayable](https://github.com/rareskills/huff-puzzles/blob/main/src/NonPayable.huff)ꪜ🟢
-- [FooBar](https://github.com/rareskills/huff-puzzles/blob/main/src/FooBar.huff)
+- [Add1](https://github.com/rareskills/huff-puzzles/blob/main/src/Add1.huff) ꪜ🟢
+- [Multiply](https://github.com/rareskills/huff-puzzles/blob/main/src/Multiply.huff) ꪜ🟢
+- [CountTime](https://github.com/rareskills/huff-puzzles/blob/main/src/CountTime.huff) ꪜ🟢
+- [NonPayable](https://github.com/rareskills/huff-puzzles/blob/main/src/NonPayable.huff) ꪜ🟢
+- [FooBar](https://github.com/rareskills/huff-puzzles/blob/main/src/FooBar.huff) ꪜ🟢
 - [MyCreator](https://github.com/rareskills/huff-puzzles/blob/main/src/MyCreator.huff)
 - [SimpleStore](https://github.com/rareskills/huff-puzzles/blob/main/src/SimpleStore.huff)
 - [RevertCustom](https://github.com/rareskills/huff-puzzles/blob/main/src/RevertCustom.huff)
