@@ -62,7 +62,7 @@ You should see something like this
 - [CountTime](https://github.com/rareskills/huff-puzzles/blob/main/src/CountTime.huff) ꪜ🟢
 - [NonPayable](https://github.com/rareskills/huff-puzzles/blob/main/src/NonPayable.huff) ꪜ🟢
 - [FooBar](https://github.com/rareskills/huff-puzzles/blob/main/src/FooBar.huff) ꪜ🟢
-- [MyCreator](https://github.com/rareskills/huff-puzzles/blob/main/src/MyCreator.huff)
+- [MyCreator](https://github.com/rareskills/huff-puzzles/blob/main/src/MyCreator.huff)ꪜ🟢
 - [SimpleStore](https://github.com/rareskills/huff-puzzles/blob/main/src/SimpleStore.huff)
 - [RevertCustom](https://github.com/rareskills/huff-puzzles/blob/main/src/RevertCustom.huff)
 - [RevertString](https://github.com/rareskills/huff-puzzles/blob/main/src/RevertString.huff)
